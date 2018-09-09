@@ -54,7 +54,7 @@ Please try to install Clang version 3.4 as it has been tested and verified.
 
 5. Build LLVM from source: cd ~/Workspace/llvm && ./configure && make. If your computer has spare CPUs, you can run make -j 4 for faster builds.
 
-6. Clone this repository to Workspace directory.
+6. Clone this repository and extract this repository to ~/Workspace/llvm/lib/Transforms/.
 
 ## Running the tests
 
